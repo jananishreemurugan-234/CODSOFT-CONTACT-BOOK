@@ -3,7 +3,7 @@
 ## Project Overview
 The CodSoft Contact Book is a Python-based desktop application that allows users to manage and organize their contacts easily. It is developed using Python and Tkinter with persistent data storage in JSON format.
 
-This project was created as part of the CodSoft Internship (Python Programming – Task 5). It demonstrates practical skills in GUI programming, file handling, search functionality, and CRUD operations (Create, Read, Update, Delete).
+This project was created as part of the CodSoft Internship (Python Programming). It demonstrates practical skills in GUI programming, file handling, search functionality, and CRUD operations (Create, Read, Update, Delete).
 
 ## Objective
 The objective of this project is to design a user-friendly contact management system that helps users add, search, update, and delete contacts with an interactive interface. It provides a real-world example of applying Python concepts to build useful desktop applications.
