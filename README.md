@@ -38,7 +38,7 @@ This layout makes managing contacts intuitive and visually appealing.
 
 ## How to Run
 1. Install Python 3.13.7.
-2.Clone this repository:
+2. Clone this repository:https://github.com/jananishreemurugan-234/CODSOFT-CONTACT-BOOK.git
 3. Run the script:
 python contact_book.py
 4. Start adding and managing contacts 
